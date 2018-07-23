@@ -2,6 +2,6 @@
 
 def crazy_strings(a,b)
   
-  puts a
+  puts a.reverse
  
 end
