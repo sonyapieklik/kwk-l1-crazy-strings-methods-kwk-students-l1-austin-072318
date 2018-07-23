@@ -2,8 +2,8 @@
 
 def crazy_strings(a,b)
   
-  puts #{a}.reverse
-  puts b.swapcase
+  return a.reverse.upcase
+  return b.swapcase.gsub("s", "z")
   
  
 end
