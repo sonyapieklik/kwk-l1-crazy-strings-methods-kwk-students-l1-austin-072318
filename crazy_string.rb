@@ -2,7 +2,7 @@
 
 def crazy_strings(a,b)
   
-  puts a.reverse
+  puts #{a}.reverse
   puts b.swapcase
   
  
